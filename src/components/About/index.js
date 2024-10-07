@@ -2,6 +2,8 @@ import {Component} from 'react'
 import Loader from 'react-loader-spinner'
 import Header from '../Header'
 import Footer from '../Footer'
+import FaqsList from '../FaqsList'
+import FactsList from '../FactsList'
 
 import './index.css'
 
